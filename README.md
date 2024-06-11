@@ -1,10 +1,20 @@
 # Real-Estate-Price-Prediction-Using-Machine-Learning
 
 <div align="justify">
-The real estate market is a complex and dynamic sector influenced by various factors. Predicting property prices is crucial for buyers, sellers, and investors to make informed decisions. As data enthusiast with a passion for real estate, I embarked on a project to predict property prices using machine learning. This project uses a Random Forest model to forecast house prices based on key features like the number of bedrooms, bathrooms, lot size, house size, and zip code. I used a comprehensive real estate dataset from [Kaggle](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data), which includes information about various properties across the US.
+The real estate market is a complex and dynamic sector influenced by various factors. Predicting property prices is crucial for buyers, sellers, and investors to make informed decisions. As data enthusiast with a passion for real estate, I embarked on a project to predict property prices using machine learning. This project uses a Random Forest model to forecast house prices based on key features like the number of bedrooms, bathrooms, lot size, house size, and zip code. I used a comprehensive real estate dataset from Kaggle, which includes information about various properties across the US.
+<br/>
+<br/>
+<div align="center">
+Link:
+<br/>
+https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data
 </div>
 <br/>
 
+<div align="center">
+
+Data Preview:
+</div>
 <p align="center" width="100%">
     <img width="33%" src="https://github.com/dmousouroulis/Real-Estate-Price-Prediction-Using-Machine-Learning/assets/156945591/1de3ce5b-b507-4111-a314-32a66a311d3d">
 </p>
